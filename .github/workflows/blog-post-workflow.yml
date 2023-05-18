@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://XiaoWendell.dev/rss/"
+          feed_list: "https://XiaoWendell.github.io/feed.xml"
