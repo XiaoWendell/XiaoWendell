@@ -4,7 +4,7 @@
 
 # 大家好! <img src="https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/wave.gif" width="30px" height="30px" />
 
-我的名字是Martin Heinz，我是一名软件开发人员/DevOps工程师。我来自斯洛伐克，住在布拉迪斯拉发，目前在IBM工作。您可以在[![Twitter][1.2]][1]上找到我，或者在[![LinkedIn][3.2]][3]上找到我。
+我的名字是Ho Wendell，我是一名业余爱好者。我来自CN，住在0731，目前在学习。您可以在[![Twitter][1.2]][1]上找到我，或者在[![LinkedIn][3.2]][3]上找到我。
 
 ## 🔧 技术 & 工具
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
