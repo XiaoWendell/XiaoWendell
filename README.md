@@ -23,8 +23,7 @@
 
 ## &#x270d; 博客和写作
 
-除了编码，我还维护一个博客 - 您可以在我的网站 [XiaoWendell.dev](https://XiaoWendell.dev/) 上找到我的文章，也可以在 [Medium](https://medium.com/@martin.heinz) 和 [DEV.to](https://dev.to/XiaoWendell).
-
+除了编码，我还维护一个博客 - 您可以在我的网站 [XiaoWen.xyz](https://XiaoWen.xyz/) 上找到我的文章.
 以下是我最近的一些文章示例：
 
 <!-- BLOG-POST-LIST:START -->
@@ -43,13 +42,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=XiaoWendell&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/XiaoWendell/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoWendell&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/XiaoWendell/XiaoWendell.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoWendell&repo=XiaoWendell.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/XiaoWendell/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoWendell&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/XiaoWendell/my-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoWendell&repo=my-project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- 社交媒体图标链接 -->
