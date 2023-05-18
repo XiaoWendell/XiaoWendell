@@ -2,11 +2,11 @@
 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# 大家好! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+我的名字是Martin Heinz，我是一名软件开发人员/DevOps工程师。我来自斯洛伐克，住在布拉迪斯拉发，目前在IBM工作。您可以在[![Twitter][1.2]][1]上找到我，或者在[![LinkedIn][3.2]][3]上找到我。
 
-## 🔧 Technologies & Tools
+## 🔧 技术 & 工具
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -21,20 +21,20 @@ My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from S
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## &#x270d; Blog & Writing
+## &#x270d; 博客和写作
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+除了编码，我还维护一个博客 - 您可以在我的网站 [martinheinz.dev](https://martinheinz.dev/) 上找到我的文章，也可以在 [Medium](https://medium.com/@martin.heinz) 和 [DEV.to](https://dev.to/martinheinz).
 
-A sample of my recent articles:
+以下是我最近的一些文章示例：
 
 <!-- BLOG-POST-LIST:START -->
-- [Real Multithreading is Coming to Python - Learn How You Can Use It Now](https://martinheinz.dev/blog/97)
-- [Python&#39;s Missing Batteries: Essential Libraries You&#39;re Missing Out On](https://martinheinz.dev/blog/96)
-- [Kubernetes-Native Synthetic Monitoring with Kuberhealthy](https://martinheinz.dev/blog/95)
-- [Make Your CLI Demos a Breeze with Zero Stress and Zero Mistakes](https://martinheinz.dev/blog/94)
+- [真正的多线程正在来到 Python - 学习如何立即使用它](https://martinheinz.dev/blog/97)
+- [Python 缺失的“电池”：您所缺少的必要库](https://martinheinz.dev/blog/96)
+- [使用 Kuberhealthy 进行 Kubernetes-Native 合成监视](https://martinheinz.dev/blog/95)
+- [通过零压力和零错误使您的 CLI 演示轻松自如](https://martinheinz.dev/blog/94)
 <!-- BLOG-POST-LIST:END -->
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub 统计信息
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -52,31 +52,31 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-<!-- links to social media icons -->
+<!-- 社交媒体图标链接 -->
 
-<!-- icons with padding -->
+<!-- 带有填充的图标 -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (带填充的 Twitter 图标)
+[2.1]: http://i.imgur.com/0o48UoR.png (带填充的 GitHub 图标)
 
-<!-- icons without padding -->
+<!-- 不带填充的图标 -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png (不带填充的 Twitter 图标)
+[2.2]: http://i.imgur.com/9I6NRUm.png (不带填充的 GitHub 图标)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (不带填充的 LinkedIn 图标)
 
 
-<!-- links to your social media accounts -->
+<!-- 链接到您的社交媒体账户 -->
 
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://github.com/MartinHeinz
 [3]: https://www.linkedin.com/in/heinz-martin/
 
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- 资源 -->
+<!-- 图标：https://simpleicons.org/ -->
+<!-- GitHub 统计信息：https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emoji：https://emojipedia.org/emoji/ -->
+<!-- HTML Emoji：https://www.fileformat.info/index.htm -->
+<!-- Shields：https://shields.io/ -->
+<!-- 优秀的 GitHub 个人资料 README：https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
