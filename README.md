@@ -1,10 +1,10 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+<!-- 更多关于制作GitHub配置文件README的信息、技巧和窍门可以在我的文章中找到：https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/readme_header.png "Header")](https://XiaoWendell.dev/)
+[![Header](https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/readme_header.png "Header")](https://xiaowen.xyz/)
 
 # 大家好! <img src="https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/wave.gif" width="30px" height="30px" />
 
-我的名字是Ho Wendell，我是一名业余爱好者。我来自CN，住在0731，目前在学习。您可以在[![Twitter][1.2]][1]上找到我，或者在[![LinkedIn][3.2]][3]上找到我。
+我的名字是Ho Wendell，我是一名业余爱好者。我来自CN，住在0731，目前在学习。您可以在[![Twitter][1.2]][1]上找到我。
 
 ## 🔧 技术 & 工具
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -27,10 +27,7 @@
 以下是我最近的一些文章示例：
 
 <!-- BLOG-POST-LIST:START -->
-- [真正的多线程正在来到 Python - 学习如何立即使用它](https://XiaoWendell.dev/blog/97)
-- [Python 缺失的“电池”：您所缺少的必要库](https://XiaoWendell.dev/blog/96)
-- [使用 Kuberhealthy 进行 Kubernetes-Native 合成监视](https://XiaoWendell.dev/blog/95)
-- [通过零压力和零错误使您的 CLI 演示轻松自如](https://XiaoWendell.dev/blog/94)
+- [markdown](https://xiaowen.xyz/2023/04/06/markdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub 统计信息
@@ -38,6 +35,7 @@
 <a href="https://github.com/XiaoWendell/XiaoWendell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoWendell&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
 <a href="https://github.com/XiaoWendell/XiaoWendell">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=XiaoWendell&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
@@ -46,10 +44,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoWendell&repo=XiaoWendell.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
+<!--
 <a href="https://github.com/XiaoWendell/my-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoWendell&repo=my-project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+-->
 
 <!-- 社交媒体图标链接 -->
 
@@ -62,14 +61,12 @@
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (不带填充的 Twitter 图标)
 [2.2]: http://i.imgur.com/9I6NRUm.png (不带填充的 GitHub 图标)
-[3.2]: https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/linkedin-3-16.png (不带填充的 LinkedIn 图标)
 
 
 <!-- 链接到您的社交媒体账户 -->
 
-[1]: https://twitter.com/Martin_Heinz_
+[1]: https://twitter.com/Wendell74316708
 [2]: https://github.com/XiaoWendell
-[3]: https://www.linkedin.com/in/heinz-martin/
 
 
 <!-- 资源 -->
