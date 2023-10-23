@@ -2,9 +2,9 @@
 
 [![Header](https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/readme_header.png "Header")](https://xiaowen.xyz/)
 
-# 大家好! <img src="https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/wave.gif" width="30px" height="30px" />
+# 大家好! <img src="https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/wave.gif" width="30px" height="30px" /><img align="right" src="https://profile-counter.glitch.me/XiaoWendell/count.svg" alt="XiaoWendell" />
 
-我的名字是Ho Wendell，我是一名业余爱好者。我来自CN，住在0731，目前在学习。您可以在[![Twitter][1.2]][1]上找到我。
+我的名字是Ho Wendell，我是一名业余爱好者。我来自CN，住在0731，目前在学习。您可以在[![Twitter][1.1]][1]上找到我。
 
 ## 🔧 技术 & 工具
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -62,12 +62,10 @@
 [1.2]: http://i.imgur.com/wWzX9uB.png (不带填充的 Twitter 图标)
 [2.2]: http://i.imgur.com/9I6NRUm.png (不带填充的 GitHub 图标)
 
-
 <!-- 链接到您的社交媒体账户 -->
 
 [1]: https://twitter.com/Wendell74316708
 [2]: https://github.com/XiaoWendell
-
 
 <!-- 资源 -->
 <!-- 图标：https://simpleicons.org/ -->
