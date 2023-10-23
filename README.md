@@ -3,6 +3,8 @@
 
 ![dino](https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/dino.gif "Header")
 
+![contents](https://github.com/XiaoWendell/XiaoWendell/raw/master/dino.gif)
+
 # 大家好! <img src="https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/wave.gif" width="30px" height="30px" /><img align="right" src="https://profile-counter.glitch.me/XiaoWendell/count.svg" alt="XiaoWendell" />
 
 我的名字是Ho Wendell，我是一名业余爱好者。我来自CN，住在0731，目前在学习。您可以在[![Twitter][1.1]][1]上找到我。
