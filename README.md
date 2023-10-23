@@ -27,7 +27,7 @@
 以下是我最近的一些文章示例：
 
 <!-- BLOG-POST-LIST:START -->
-- [markdown](https://xiaowen.xyz/2023/04/06/markdown/)
+- [text-and-typography](https://xiaowen.xyz/posts/text-and-typography/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub 统计信息
