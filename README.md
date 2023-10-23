@@ -1,7 +1,7 @@
 <!-- 更多关于制作GitHub配置文件README的信息、技巧和窍门可以在我的文章中找到：https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 [![Header](https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/readme_header.png "Header")](https://xiaowen.xyz/)
 
-![dino](./dino.gif)
+![dino](https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/dino.gif "Header")
 
 # 大家好! <img src="https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/wave.gif" width="30px" height="30px" /><img align="right" src="https://profile-counter.glitch.me/XiaoWendell/count.svg" alt="XiaoWendell" />
 
