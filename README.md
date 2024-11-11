@@ -2,13 +2,6 @@
 
 [![Header](https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/readme_header.png "Header")](https://xiaowen.xyz/)
 
-<<<<<<< HEAD
-<!--[![Header](https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/readme_header.png "Header")](https://xiaowen.xyz/) -->
-
-=======
-<!-- ![dino](./dino.gif) -->
->>>>>>> 465755fef0866c82a5ad15c0082c6a80602a5147
-
 # 大家好! <img src="https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/wave.gif" width="30px" height="30px" /><img align="right" src="https://profile-counter.glitch.me/XiaoWendell/count.svg" alt="XiaoWendell" />
 
 我的名字是Ho Wendell，我是一名业余爱好者。我来自CN，住在0731，目前在学习。您可以在[![Twitter][1.1]][1]上找到我。
