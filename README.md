@@ -25,7 +25,7 @@
 
 ## &#x270d; 博客和写作
 
-除了编码，我还维护一个博客 - 您可以在我的网站 [XiaoWen.xyz](https://XiaoWen.xyz/) 上找到我的文章.
+除了编码，我还维护一个博客 - 您可以在我的网站[wendell.website](https://wendell.website/)上找到我的文章.
 以下是我最近的一些文章示例：
 
 <!-- BLOG-POST-LIST:START -->
