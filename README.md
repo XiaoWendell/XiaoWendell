@@ -1,6 +1,6 @@
 <!-- 更多关于制作GitHub配置文件README的信息、技巧和窍门可以在我的文章中找到：https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/readme_header.png "Header")](https://xiaowen.xyz/)
+[![Header](https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/readme_header.png "Header")](https://wendell.website/)
 
 # 大家好! <img src="https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/wave.gif" width="30px" height="30px" /><img align="right" src="https://profile-counter.glitch.me/XiaoWendell/count.svg" alt="XiaoWendell" />
 
@@ -22,7 +22,7 @@
 以下是我最近的一些文章示例：
 
 <!-- BLOG-POST-LIST:START -->
-- [text-and-typography](https://xiaowen.xyz/posts/text-and-typography/)
+- [text-and-typography](https://wendell.website/posts/text-and-typography/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub 统计信息
@@ -59,7 +59,7 @@
 
 <!-- 链接到您的社交媒体账户 -->
 
-[1]: https://twitter.com/Wendell74316708
+[1]: https://x.com/Xiao_Bard
 [2]: https://github.com/XiaoWendell
 
 <!-- 资源 -->
