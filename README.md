@@ -50,7 +50,7 @@
 
 [1.1]: http://i.imgur.com/tXSoThF.png (带填充的 Twitter 图标)
 [2.1]: http://i.imgur.com/0o48UoR.png (带填充的 GitHub 图标)
-[3.1]: https://raw.githubusercontent.com/XiaoWendell/MyProject/master/images/SVG/x_32.svg (我的 x 图标)
+[3.1]: https://raw.githubusercontent.com/XiaoWendell/MyProject/master/images/SVG/x_16.svg (我的 x 图标)
 
 <!-- 不带填充的图标 -->
 
