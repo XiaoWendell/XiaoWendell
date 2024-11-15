@@ -4,7 +4,7 @@
 
 # 大家好! <img src="https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/images/wave.gif" width="30px" height="30px" /><img align="right" src="https://profile-counter.glitch.me/XiaoWendell/count.svg" alt="XiaoWendell" />
 
-我的名字是Ho Wendell，我是一名业余爱好者。我来自CN，住在0731，目前在学习。您可以在[![Twitter][1.1]][1]上找到我。
+我的名字是Ho Wendell，我是一名业余爱好者。我来自CN，住在0731。您可以在[![Twitter][1.1]][1]上找到我。
 
 ## 🔧 技术 & 工具
 
@@ -18,11 +18,10 @@
 
 ## &#x270d; 博客和写作
 
-除了编码，我还维护一个博客 - 您可以在我的网站[wendell.website](https://wendell.website/)上找到我的文章.
-以下是我最近的一些文章示例：
-
+除了编码，我还维护一个博客，您可以在我的网站[wendell.website](https://wendell.website/)上找到我的文章.
+<!-- 以下是我最近的一些文章示例： -->
 <!-- BLOG-POST-LIST:START -->
-- [text-and-typography](https://wendell.website/posts/text-and-typography/)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub 统计信息
