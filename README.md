@@ -4,7 +4,7 @@
 
 # 大家好! <img src="https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/images/wave.gif" width="30px" height="30px" /><img align="right" src="https://profile-counter.glitch.me/XiaoWendell/count.svg" alt="XiaoWendell" />
 
-我的名字是Ho Wendell，我是一名业余爱好者。我来自CN，住在0731。您可以在[![Twitter][3.1]][1]上找到我。
+我的名字是Ho Wendell，我是一名业余爱好者。我来自CN，住在0731。您可以在 [![Twitter][3.1]][1] 上找到我。
 
 ## 🔧 技术 & 工具
 
