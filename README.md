@@ -39,7 +39,7 @@
 </a>
 
 <a href="https://github.com/XiaoWendell/MyProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoWendell&repo=my-project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoWendell&repo=MyProject&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- 社交媒体图标链接 -->
