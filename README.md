@@ -4,7 +4,7 @@
 
 # 大家好! <img src="https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/images/wave.gif" width="30px" height="30px" /><img align="right" src="https://profile-counter.glitch.me/XiaoWendell/count.svg" alt="XiaoWendell" />
 
-我的名字是Ho Wendell，我是一名业余爱好者。我来自CN，住在0731。您可以在[![Twitter][1.1]][1]上找到我。
+我的名字是Ho Wendell，我是一名业余爱好者。我来自CN，住在0731。您可以在[![Twitter][3.1]][1]上找到我。
 
 ## 🔧 技术 & 工具
 
@@ -50,6 +50,7 @@
 
 [1.1]: http://i.imgur.com/tXSoThF.png (带填充的 Twitter 图标)
 [2.1]: http://i.imgur.com/0o48UoR.png (带填充的 GitHub 图标)
+[3.1]: https://raw.githubusercontent.com/XiaoWendell/MyProject/master/images/Profile picture/SVG/x_32.svg  (我的 x 图标)
 
 <!-- 不带填充的图标 -->
 
