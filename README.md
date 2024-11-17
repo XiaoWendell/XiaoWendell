@@ -6,6 +6,8 @@
 
 我的名字是Ho Wendell，我是一名业余爱好者。我来自CN，住在0731。您可以在 [![Twitter][3.1]][1] 上找到我。
 
+![dino](https://raw.githubusercontent.com/XiaoWendell/MyProject/master/images/GIF/dino.gif "dino")
+
 ## 🔧 技术 & 工具
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
