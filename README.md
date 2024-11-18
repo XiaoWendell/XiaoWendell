@@ -1,12 +1,12 @@
 <!-- 更多关于制作GitHub配置文件README的信息、技巧和窍门可以在我的文章中找到：https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/images/readme_header.png "Header")](https://wendell.website/)
+[![Header](https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/images/readme_header.png 'Header')](https://wendell.website/)
 
 # 大家好! <img src="https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/images/wave.gif" width="30px" height="30px" /><img align="right" src="https://profile-counter.glitch.me/XiaoWendell/count.svg" alt="XiaoWendell" />
 
-我的名字是Ho Wendell，我是一名业余爱好者。我来自CN，住在0731。您可以在 [![Twitter][3.1]][1] 上找到我。
+我的名字是 Ho Wendell，我是一名业余爱好者。我来自 CN，住在 0731。您可以在 [![Twitter][3.1]][1] 上找到我。
 
-![dino](https://raw.githubusercontent.com/XiaoWendell/MyProject/master/images/GIF/dino.gif "dino")
+![dino](https://raw.githubusercontent.com/XiaoWendell/ProjectAssets/master/images/GIF/dino.gif 'dino')
 
 ## 🔧 技术 & 工具
 
@@ -21,6 +21,7 @@
 ## &#x270d; 博客和写作
 
 除了编码，我还维护一个博客，您可以在我的网站[wendell.website](https://wendell.website/)上找到我的文章.
+
 <!-- 以下是我最近的一些文章示例： -->
 <!-- BLOG-POST-LIST:START -->
 
@@ -40,22 +41,22 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoWendell&repo=XiaoWendell.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/XiaoWendell/MyProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoWendell&repo=MyProject&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+<a href="https://github.com/XiaoWendell/ProjectAssets">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoWendell&repo=ProjectAssets&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <!-- 社交媒体图标链接 -->
 
 <!-- 带有填充的图标 -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (带填充的 Twitter 图标)
-[2.1]: http://i.imgur.com/0o48UoR.png (带填充的 GitHub 图标)
-[3.1]: https://raw.githubusercontent.com/XiaoWendell/MyProject/master/images/SVG/x_16.svg (我的 x 图标)
+[1.1]: http://i.imgur.com/tXSoThF.png '带填充的 Twitter 图标'
+[2.1]: http://i.imgur.com/0o48UoR.png '带填充的 GitHub 图标'
+[3.1]: https://raw.githubusercontent.com/XiaoWendell/ProjectAssets/master/images/SVG/x_16.svg '我的 x 图标'
 
 <!-- 不带填充的图标 -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (不带填充的 Twitter 图标)
-[2.2]: http://i.imgur.com/9I6NRUm.png (不带填充的 GitHub 图标)
+[1.2]: http://i.imgur.com/wWzX9uB.png '不带填充的 Twitter 图标'
+[2.2]: http://i.imgur.com/9I6NRUm.png '不带填充的 GitHub 图标'
 
 <!-- 链接到您的社交媒体账户 -->
 
